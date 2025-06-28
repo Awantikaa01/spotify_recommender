@@ -12,9 +12,11 @@ This is a Streamlit-based web app that clusters Spotify songs using machine lear
 - Recommends similar songs based on cosine similarity
 - Integrated YouTube search to listen directly
 - Streamlit interface for ease of use
+#instructions
 
 USE COMMAND PROMPT TO RUN THE PYTHON FILE
 Run the app via:
+
 streamlit run spotify_app.py
 
 streamlit run my_spotify.py
